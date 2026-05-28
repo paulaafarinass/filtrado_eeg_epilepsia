@@ -33,6 +33,3 @@ Alcanzar el umbral energético no es condición suficiente para considerar una c
 
 Siguiendo las recomendaciones de la Federación Internacional de Neurofisiología Clínica (IFCN), se exige que la dominancia de la banda Delta se mantenga durante un periodo ininterrumpido de, al menos, 10 segundos para diagnosticar el evento como una crisis epiléptica real. Si el contador de actividad anómala detecta que el evento finaliza antes de los 10 segundos, el contador se resetea y descarta el falso positivo. En caso afirmativo, se extrae la duración total y las marcas de tiempo para generar el informe. De esta forma, se construye un algoritmo de detección en tiempo real.
 
-## 🧑‍💻 Metodología de Desarrollo
-
-El diseño de la arquitectura del software, la selección del pipeline de procesamiento de señales (filtros digitales y Wavelets) y la conceptualización de los criterios neuro
