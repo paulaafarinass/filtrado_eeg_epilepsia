@@ -3,7 +3,7 @@
 Este proyecto consiste en una aplicación de interfaz gráfica (GUI) desarrollada en MATLAB para el procesamiento avanzado de señales electroencefalográficas (EEG) y la detección automática, en tiempo real, de eventos epileptiformes (crisis epilépticas).
 
 El sistema carga registros médicos en formato `.edf`, aplica un pipeline de limpieza de ruido mediante filtros digitales, separa las bandas de frecuencia cerebrales usando la Transformada Wavelet Discreta, y emite un diagnóstico clínico computacional basado en la energía relativa de la señal.
-![Captura de pantalla del Analizador EEG detectando una crisis](analizador_eeg_5min.png)
+![Captura de pantalla del Analizador EEG detectando una crisis](analizador_eeg_5min.PNG)
 
 ## 🗂️ Base de Datos Empleada
 
